@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\bin\Debug\TevinHamiltn_C02.exe.config
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\bin\Debug\TevinHamiltn_C02.exe
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\bin\Debug\TevinHamiltn_C02.pdb
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\obj\Debug\TevinHamiltn_C02.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\obj\Debug\TevinHamiltn_C02.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\obj\Debug\TevinHamiltn_C02.exe
+\\vmware-host\Shared Folders\Desktop\ASD_Homework\TevinHamiltn_C02\TevinHamiltn_C02\obj\Debug\TevinHamiltn_C02.pdb
